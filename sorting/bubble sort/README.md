@@ -22,7 +22,7 @@ BUBBLESORT(A)
                 exchange A[j] with A[j - 1]
 ```
 
-### Run Time and Space Complexity
+## Run Time and Space Complexity
 
 ### Run Time Complexity
 
