@@ -12,3 +12,9 @@ Indepth Explanation, Pseudocode and C++ Implementation of the algorithms
 - [Dynamic Programming Algorithms](#dynamic-programming)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Citation
+
+Sources from this repostiroty are from the following material 
+
+- Cormen, T. H. (2001). Introduction to algorithms (2nd ed.). MIT Press.
