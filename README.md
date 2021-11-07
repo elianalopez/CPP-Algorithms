@@ -18,3 +18,5 @@ Indepth Explanation, Pseudocode and C++ Implementation of the algorithms
 Sources from this repostiroty are from the following material 
 
 - Cormen, T. H. (2001). Introduction to algorithms (2nd ed.). MIT Press.
+- Dasgupta, S., Papadimitriou, C. H., & Vazirani, U. V. (2011). Algorithms. McGraw-Hill Higher Education. 
+- Kleinberg, J., & Tardos Éva. (2014). Algorithm design. Pearson india Education Services Pvt.
