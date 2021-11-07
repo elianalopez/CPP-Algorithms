@@ -42,10 +42,7 @@ A divide and Conquer algoithm that is utilized for sorting. How it follows the d
     elements of different arrays, so C(n) = O(n).
 
 
-
 The recursion *bottoms* out when the sequences to be sorted has a length of 1, which results in no work to be done for our algorithm
-
-![2bfcd36f.png](:storage/1d84e448-07ae-491a-9c07-58e6285e1eed/2bfcd36f.png)
 
 **The key operation in this algorithm is the merging of the two sorted sequences** which we do when we call `Merge(A,p,q,r)`
   * A is the array
