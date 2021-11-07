@@ -58,7 +58,7 @@ It merges the two subarrays and replaces the former Array to its new form A[p...
 
 
 ### Pseudocode 
-``` C
+```C
 //Note: Merge takes O(n) time where n = r-p+1
 
 // Merges 2 sorted arrays into a single sorted array 
