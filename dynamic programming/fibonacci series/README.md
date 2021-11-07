@@ -15,7 +15,7 @@ The Fibonacci series is mathematically defined by the following:
 ## Pseudocode
 
 ```C
-Fib2(A)
+Fib2(A):
     create an array f[0 . . . n]
     f[0] = 0, f[1] = 1 //base cases
     for i = 2 . . . n:
