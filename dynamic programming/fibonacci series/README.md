@@ -10,6 +10,8 @@ The Fibonacci Series created by 15th century Italian mathematician Leonardo Fibo
 
 The Fibonacci series is mathematically defined by the following:
 
+<p align="center"><img src="https://github.com/elianalopez/CPP-Algorithms/blob/main/dynamic%20programming/fibonacci%20series/images/fibonacci.png?raw=true"></p>
+
 ## Pseudocode
 
 ```C
