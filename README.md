@@ -8,7 +8,7 @@ Indepth Explanation, Pseudocode and C++ Implementation of the algorithms
 <summary>click to expand</summary>
  
 - [Searching Algorithms](#searching)  
-- [Sorting Algorithms](#sorting)  
+- <a href="https://github.com/elianalopez/CPP-Algorithms/tree/main/sorting/bubble%20sort">Sorting Algorithms</a>
 - [Dynamic Programming Algorithms](#dynamic-programming)  
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
