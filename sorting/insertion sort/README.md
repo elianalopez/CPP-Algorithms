@@ -18,7 +18,7 @@ An efficient algoithm for sorting a small number of elements
 Insertion-Sort(A):
   for j = 2 to A.length
   key = A[j]
-  //Insert A[j into the sorted sequence A[1...j-1]
+  //Insert A[j] into the sorted sequence A[1...j-1]
   while i > 0 AND A[i] > key
     A[i+1] = A[i]
     i = -1
