@@ -21,7 +21,7 @@ Insertion-Sort(A):
   //Insert A[j] into the sorted sequence A[1...j-1]
   while i > 0 AND A[i] > key
     A[i+1] = A[i]
-    i = -1
+    i = i-1
   A[i+1] = key
 ```
 
